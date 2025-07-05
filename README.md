@@ -27,7 +27,6 @@
 
 ## 🧠 Currently Learning
 
-- 🧱 Microservices with Spring Boot & Kubernetes
 - ⚙️ DevOps automation with GitHub Actions
 - 🧠 Building with Generative AI (LangChain, RAG)
 - 🧪 Test-first design, architectural patterns
